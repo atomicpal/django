@@ -1,6 +1,6 @@
 argon2-cffi >= 16.1.0
 bcrypt
-docutils
+docutils==0.12
 geoip2
 jinja2 >= 2.7
 numpy
