@@ -11,4 +11,4 @@ pylibmc; sys.platform != 'win32'
 pytz
 selenium
 sqlparse
-tblib
+tblib==1.3.0
