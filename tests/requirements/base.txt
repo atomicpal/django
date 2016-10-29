@@ -5,7 +5,7 @@ geoip2==2.4.0
 jinja2 >= 2.7
 numpy==1.11.2
 Pillow==3.4.2
-PyYAML
+PyYAML==3.12
 # pylibmc/libmemcached can't be built on Windows.
 pylibmc==1.5.1
 pytz==2016.7
