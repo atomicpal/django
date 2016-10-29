@@ -9,6 +9,6 @@ PyYAML
 # pylibmc/libmemcached can't be built on Windows.
 pylibmc==1.5.1
 pytz==2016.7
-selenium
+selenium==3.0.1
 sqlparse
 tblib==1.3.0
