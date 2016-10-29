@@ -8,7 +8,7 @@ Pillow
 PyYAML
 # pylibmc/libmemcached can't be built on Windows.
 pylibmc; sys.platform != 'win32'
-pytz
+pytz==2016.7
 selenium
 sqlparse
 tblib==1.3.0
