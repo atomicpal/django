@@ -2,4 +2,4 @@
 enum34
 # Due to https://github.com/linsomniac/python-memcached/issues/79 in newer versions.
 python-memcached==1.58
-mock
+mock==2.0.0
