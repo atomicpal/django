@@ -10,5 +10,5 @@ PyYAML
 pylibmc==1.5.1
 pytz==2016.7
 selenium==3.0.1
-sqlparse
+sqlparse==0.2.2
 tblib==1.3.0
